@@ -7,3 +7,4 @@ including:
 
  * ploty
  * tqdm
+ * openpyxl (for Excel XLSX support in pandas)
